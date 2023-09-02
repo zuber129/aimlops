@@ -1,0 +1,14 @@
+title: AI & MLOps
+# email: your-email@example.com
+description: This is my awesome blog built with Jekyll.
+baseurl: ""
+url: "http://www.your-website.com"
+github_username:  zuber129
+
+# markdown: kramdown
+theme: minima
+
+exclude:
+  - README.md
+
+permalink: /:year/:month/:day/:title/
